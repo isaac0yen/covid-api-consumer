@@ -1,4 +1,5 @@
 # COVID-19 Nigeria Data App
+## Please be awarw that the API docs wasn't provided
 
 This is a single-page React application that fetches and displays COVID-19 data for different states in Nigeria. The data is fetched from the open API at `https://covidnigeria.herokuapp.com/api` using Redux for state management.
 
